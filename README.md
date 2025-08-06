@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<font color="Red" size="7"><b>SuperFast X1 Laptop</b></font><br><br>
+<font color="Red" size="9"><b>SuperFast X1 Laptop</b></font><br><br>
 
 <font color="black">
     <p>Fast, lightweight, and perfect for everyday use!</p>
